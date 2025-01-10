@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = environ.get("API_ID" , "13963336")
 API_HASH = environ.get("API_HASH" , "a144d1e22ef0b29738e8c00713d02678")
-BOT_TOKEN = environ.get("BOT_TOKEN" , "2099007:AAH1b3d7b3b1b3d7b3b1b3d7b3b1b3d7b3")
+BOT_TOKEN = environ.get("BOT_TOKEN" , "7831423954:AAHNdXYlWhUfxqnmgTANtDef2PUFYS7fCVI")
 ADMIN = int(environ.get("ADMIN" , "2103299862"))
 CHAT_GROUP = int(environ.get("CHAT_GROUP", "-1002440952521"))
 LOG_CHANNEL = environ.get("LOG_CHANNEL", "-1002421238378")
